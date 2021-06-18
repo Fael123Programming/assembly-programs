@@ -1,5 +1,5 @@
 .data
-	msg: .asciiz "If you run this program, probably your Mars editor will get in problems!\n"
+	msg: .asciiz "If you run this program, probably your runtime execution will get in problems!\n"
 .text
 .globl main
 main:
