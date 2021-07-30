@@ -1,4 +1,4 @@
-.include "first_part.asm" #including that file here
+.include "notes.asm" #including that file here
 
 .text
 	la $t0,music #load vector music from first_part file into register $t0
